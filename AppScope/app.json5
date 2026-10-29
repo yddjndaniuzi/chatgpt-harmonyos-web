@@ -1,0 +1,10 @@
+{
+  "app": {
+    "bundleName": "com.example.chatgptweb",
+    "vendor": "Personal",
+    "versionCode": 218,
+    "versionName": "0.2.18",
+    "icon": "$media:layered_image",
+    "label": "$string:app_name"
+  }
+}

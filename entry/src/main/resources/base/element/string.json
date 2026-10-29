@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "ChatGPT"
+    },
+    {
+      "name": "module_desc",
+      "value": "个人使用的 ChatGPT 官网网页容器"
+    }
+  ]
+}

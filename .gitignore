@@ -1,0 +1,51 @@
+# Dependencies and generated output
+node_modules/
+oh_modules/
+.hvigor/
+build/
+dist/
+coverage/
+*.hap
+*.hsp
+*.app
+*.zip
+
+# Local SDK, editor and machine settings
+local.properties
+.idea/
+.vscode/
+.DS_Store
+.local/
+
+# Signing material and credentials
+signing/
+certificates/
+credentials/
+secrets/
+.env
+.env.*
+*.p12
+*.pfx
+*.p7b
+*.cer
+*.crt
+*.pem
+*.key
+*.jks
+*.keystore
+*.mobileprovision
+
+# Device data, diagnostics and captures
+*.log
+*.har
+*.trace
+*.heapsnapshot
+*.db
+*.sqlite*
+logs/
+diagnostics/
+screenshots/
+recordings/
+captures/
+downloads/
+tmp/

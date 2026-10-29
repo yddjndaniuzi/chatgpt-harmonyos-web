@@ -1,0 +1,8 @@
+{
+  "modelVersion": "6.1.0",
+  "name": "chatgpt-web",
+  "version": "0.2.18",
+  "description": "Personal HarmonyOS wrapper for the official ChatGPT website",
+  "dependencies": {},
+  "devDependencies": {}
+}
